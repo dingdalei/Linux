@@ -37,4 +37,15 @@
 
 * 吴仁智的文件集 http://www.cses.tcc.edu.tw/~chihwu/
 
+
+### FAQ网站：
+
+* Linux 自己的文件数据： /usr/share/doc (在你的 PC 中)
+
+* LDP 中文文件计划 http://www.linux.org.tw/CLDP/
+
+* Unix 的一般常见问题 http://www.csie.nctu.edu.tw/document/unixfaq/
+
+* Unix 的一般常见问题 http://www.csie.nctu.edu.tw/document/unixfa
+
 注：上述内容主要摘自《鸟哥的私房菜》
