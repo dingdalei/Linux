@@ -46,6 +46,6 @@
 
 * Unix 的一般常见问题 http://www.csie.nctu.edu.tw/document/unixfaq/
 
-* Unix 的一般常见问题 http://www.csie.nctu.edu.tw/document/unixfa
+* LDP http://www.tldp.org/ 几乎列出了所有 Linux 上面可以看到 的文献数据，各种 How-To 的作法等等，
 
 注：上述内容主要摘自《鸟哥的私房菜》
