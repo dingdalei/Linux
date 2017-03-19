@@ -15,3 +15,5 @@
 * [计算机基础](http://www.study-area.org/compu/compu.htm)
 
 * [网络基础](http://www.study-area.org/network/network.htm)
+
+* [推荐的网络书籍](http://linux.vbird.org/linux_basic/0120howtolinux/0120howtolinux_1.php)
