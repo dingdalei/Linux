@@ -18,4 +18,4 @@
 
 * [推荐的网络书籍](http://linux.vbird.org/linux_basic/0120howtolinux/0120howtolinux_1.php)
 
-* 参考网络上一些高手整理的实作经验分享喔！[Study-Area](http://www.study-area.org/menu1.htm)于你自己的Linux能力必然大有斩获！
+* 参考网络上一些高手整理的实作经验分享喔！[Study-Area](http://www.study-area.org/menu1.htm) 于你自己的Linux能力必然大有斩获！
