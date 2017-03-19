@@ -1,3 +1,4 @@
+### 学习心得
 1. 先理解一下基础的硬件知识，不用一定要全懂(没那么多时间)，但是至少要『听过、有概念』即 可；
 
 2. 先了解一下 Linux 的基础知识，这些包含了『使用者、群组的概念』、『权限的观念』，『程序 的定义』等等；
@@ -11,8 +12,6 @@
 6. 如果连网络基础都通过了，那么网站的架设对你来说，简直就是『太简单啦！』
 
 &emsp;&emsp;在一些基础知识上，可能的话，当然得去书店找书来读啊！ 如果您想要由网络上面阅读的话，那么这里推荐一下由 Netman 大哥主笔的Study-Area里面的基础文章，相当的实用！
-
-几个学习网站：
     
 * [计算机基础](http://www.study-area.org/compu/compu.htm)
 
@@ -20,9 +19,9 @@
 
 * [推荐的网络书籍](http://linux.vbird.org/linux_basic/0120howtolinux/0120howtolinux_1.php)
 
-* 参考网络上一些高手整理的实作经验分享喔！[Study-Area](http://www.study-area.org/menu1.htm) 于你自己的Linux能力必然大有斩获！
+* 参考网络上一些高手整理的实作经验分享喔！[Study-Area](http://www.study-area.org) 于你自己的Linux能力必然大有斩获！
 
-* Study-Area http://www.study-area.org
+### 几个学习网站：
 
 * 鸟哥的私房菜馆 http://linux.vbird.org
 
