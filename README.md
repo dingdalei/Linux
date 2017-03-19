@@ -48,6 +48,16 @@
 
 * Unix 的一般常见问题 http://www.csie.nctu.edu.tw/document/unixfaq/
 
-* LDP http://www.tldp.org/ 几乎列出了所有 Linux 上面可以看到 的文献数据，各种 How-To 的作法等等，
+* LDP http://www.tldp.org/ 几乎列出了所有 Linux 上面可以看到 的文献数据，各种 How-To 的作法等等。
+
+### 如果还不会，提问网站：
+
+* Study-Area 讨论区 http://phorum.study-area.org
+
+* 鸟哥的私房菜馆讨论区 http://phorum.vbird.org
+
+* 狼主的网络实验室讨论区 http://netlab.kh.edu.tw/board/board.asp
+
+* telnet://bbs.sayya.org
 
 注：上述内容主要摘自《鸟哥的私房菜》
