@@ -9,3 +9,7 @@
 5. 如果上面你都通过了，那么网络的基础就是下一阶段要接触的咚咚，这部份包含了『IP 概念』『路 由概念』『TCP/IP』等等；
 
 6. 如果连网络基础都通过了，那么网站的架设对你来说，简直就是『太简单啦！』
+
+[计算机基础] (http://www.study-area.org/compu/compu.htm)
+
+[网络基础] (http://www.study-area.org/network/network.htm)
