@@ -40,6 +40,8 @@
 
 ### FAQ网站：
 
+* Google First
+
 * Linux 自己的文件数据： /usr/share/doc (在你的 PC 中)
 
 * LDP 中文文件计划 http://www.linux.org.tw/CLDP/
