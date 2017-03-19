@@ -12,6 +12,6 @@
 
     在一些基础知识上，可能的话，当然得去书店找书来读啊！ 如果您想要由网络上面阅读的话，那么这里推 荐一下由 Netman 大哥主笔的 Study-Area 里面的基础文章，相当的实用！
     
-＊ [计算机基础](http://www.study-area.org/compu/compu.htm)
+* [计算机基础](http://www.study-area.org/compu/compu.htm)
 
-＊ [网络基础](http://www.study-area.org/network/network.htm)
+* [网络基础](http://www.study-area.org/network/network.htm)
