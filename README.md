@@ -58,6 +58,6 @@
 
 * 狼主的网络实验室讨论区 http://netlab.kh.edu.tw/board/board.asp
 
-* telnet://bbs.sayya.org
+* telnet telnet://bbs.sayya.org
 
 注：上述内容主要摘自《鸟哥的私房菜》
